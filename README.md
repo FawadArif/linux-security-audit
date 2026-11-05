@@ -64,4 +64,4 @@ Use only on systems you own or are authorised to audit.
 
 ## Author
 
-Adeebi: [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Fawad Arif: [LinkedIn](https://linkedin.com/in/fawad-ar1f/) | [GitHub](https://github.com/FawadArif)
